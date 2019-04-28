@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Cijams/WebApp#readme",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.1"
   }
 }
